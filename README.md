@@ -66,13 +66,13 @@ and the same error occurs when i call the api endpoint `/api`. (when running `pn
 is there a reason for this? is it as expected or is this a bug of some sorts?
 
 ## environment information
-Operating System:
-Windows 11
-
-Binaries:
-pnpm: 9.1.0
-node: v20.13.0
-
-Relevant Packages:
-next: 14.2.3
-isolated-vm: 4.7.2
+Operating System:<br>
+Windows 11<br>
+<br>
+Binaries:<br>
+pnpm: 9.1.0<br>
+node: v20.13.0<br>
+<br>
+Relevant Packages:<br>
+next: 14.2.3<br>
+isolated-vm: 4.7.2<br>
